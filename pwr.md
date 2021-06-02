@@ -90,5 +90,4 @@ legend("topright", title="Power", as.character(p), fill=colors)
 
 ### Side by Side figures
 
-![effect-sizeOF0.07](./assets/effect_0.7.png){:height="50%" width="50%"}
-![effect-sizeOF0.08](./assets/effect_0.8.png){width=50%}
+![effect-sizeOF0.07](./assets/effect_0.7.png) ![effect-sizeOF0.08](./assets/effect_0.8.png)

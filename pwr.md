@@ -45,7 +45,7 @@ title("#of predictors vs. Sample-size for \ndifferent Power values in
 legend("topright", title="Power", as.character(p), fill=colors)
 ```
 
-![effectsizeOF0.08](../assets/effect_0.8.png)
+![effectsizeOF0.08](./assets/effect_0.8.png)
 
 
 
@@ -85,10 +85,10 @@ legend("topright", title="Power", as.character(p), fill=colors)
 
 ```
 
-![effect-sizeOF0.07](../assets/effect_0.7.png)
+![effect-sizeOF0.07](./assets/effect_0.7.png)
 
 
 ### Side by Side figures
 
-![effect-sizeOF0.07](../assets/effect_0.7.png)
-![effect-sizeOF0.08](../assets/effect_0.8.png)
+![effect-sizeOF0.07](./assets/effect_0.7.png)
+![effect-sizeOF0.08](./assets/effect_0.8.png)

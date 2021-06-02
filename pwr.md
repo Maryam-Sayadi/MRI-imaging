@@ -1,5 +1,13 @@
 # PWR package
 
+Statistical power is one piece in a puzzle that has four related parts; they are:
+
+  * Effect Size. The quantified magnitude of a result present in the population. Effect size is calculated using a specific statistical measure, such as Pearson’s correlation coefficient for the relationship between variables or Cohen’s d for the difference between groups.
+  * Sample Size. The number of observations in the sample.
+  * Significance. The significance level used in the statistical test, e.g. alpha. Often set to 5% or 0.05.
+  * Statistical Power. The probability of accepting the alternative hypothesis if it is true.
+
+
 ### Install
 
 ```R
